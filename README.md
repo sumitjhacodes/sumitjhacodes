@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sumit+Jha;Full-Stack+Engineer;Building+Production-Ready+AI+Applications;Backend+%7C+AI+%7C+System+Design;Open+to+Remote+Opportunities" />
-</p>
 
 <p align="center">
 
