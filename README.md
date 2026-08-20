@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sumit+Jha;AI+Full-Stack+Engineer;Building+Production-Ready+AI+Applications;Backend+%7C+AI+%7C+System+Design;Open+to+Remote+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sumit+Jha;Full-Stack+Engineer;Building+Production-Ready+AI+Applications;Backend+%7C+AI+%7C+System+Design;Open+to+Remote+Opportunities" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ```ts
 const sumit = {
-  role: "AI Full-Stack Engineer",
+  role: "Full-Stack Engineer",
   building: "Production-ready AI Products",
   interests: [
     "Backend Engineering",
@@ -98,24 +98,6 @@ const sumit = {
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square" />
-</p>
-
-
-### AI & LLM
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-18181B?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Agents-18181B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embeddings-18181B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector%20Search-18181B?style=flat-square" />
 </p>
 
 
