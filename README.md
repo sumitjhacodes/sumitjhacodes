@@ -31,7 +31,7 @@ const sumit = {
 
 ---
 
-## 🚀 AI Full-Stack Engineering
+## Full-Stack Engineering
 
 ### Languages
 
@@ -161,4 +161,12 @@ Always open to collaborating with developers, founders, and startups building am
 
 > **Build. Learn. Ship. Repeat.**
 
+<div align="center">
+  <br />
+  <blockquote>
+    <h3>"Do so much work that it would be unreasonable for you not to succeed."</h3>
+    <p>— <em>Alex Hormozi</em></p>
+  </blockquote>
+  <br />
+</div>
 </p>
