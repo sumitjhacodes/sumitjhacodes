@@ -151,9 +151,6 @@ Always open to collaborating with developers, founders, and startups building am
 ---
 
 <p align="center">
-
-> **Build. Learn. Ship. Repeat.**
-
 <div align="center">
   <br />
   <blockquote>
