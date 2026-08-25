@@ -141,13 +141,6 @@ const sumit = {
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitjhacodes&theme=github-compact"/>
-</p>
-
----
 
 ## 🤝 Connect
 
