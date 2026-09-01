@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/github/followers/sumitjhacodes?style=for-the-badge&label=Followers"/>
 </a>
 
-<img src="https://img.shields.io/badge/Open%20to-Remote%20Full--Stack%20Roles-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Full--Stack%20Roles-success?style=for-the-badge" />
 <img src="https://komarev.com/ghpvc/?username=sumitjhacodes&style=for-the-badge"/>
 
 </p>
