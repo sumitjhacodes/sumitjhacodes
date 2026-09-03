@@ -36,10 +36,6 @@ const sumit = {
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,bash" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -49,10 +45,6 @@ const sumit = {
 
 
 ### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -65,10 +57,6 @@ const sumit = {
 
 
 ### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -84,10 +72,6 @@ const sumit = {
 ### Databases & Caching
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -99,10 +83,6 @@ const sumit = {
 
 
 ### DevOps & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,aws,vercel,cloudflare" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -118,10 +98,6 @@ const sumit = {
 
 
 ### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prisma,graphql,postman,supabase,firebase" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
