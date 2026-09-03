@@ -118,14 +118,6 @@ const sumit = {
 ---
 
 
-## 🤝 Connect
-
-I enjoy building production-grade software, AI applications, backend systems, and developer tools.
-
-Always open to collaborating with developers, founders, and startups building ambitious products.
-
----
-
 <p align="center">
 <div align="center">
   <br />
